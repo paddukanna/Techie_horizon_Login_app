@@ -31,6 +31,6 @@ Then look for the file :
 	sonar.junit.reportsPath=target/surefire-reports
 	sonar.jacoco.reportPath=target/jacoco.exec
 	sonar.java.binaries=src/main/java/com/visualpathit/account/
-     ```
+     .
 
 
